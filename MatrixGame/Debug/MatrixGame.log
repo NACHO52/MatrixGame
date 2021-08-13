@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  styles.cpp
+  MatrixGame.cpp
+  logic.cpp
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(120): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(326): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(332): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(335): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\nemox\git\matrixgame\matrixgame\matrixgame\logic.cpp(338): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  MatrixGame.vcxproj -> C:\Nemox\git\MatrixGame\MatrixGame\Debug\MatrixGame.exe
+  MatrixGame.vcxproj -> C:\Nemox\git\MatrixGame\MatrixGame\Debug\MatrixGame.pdb (Full PDB)
